@@ -10,10 +10,15 @@ Repositori ini berisi pengujian otomatis UI menggunakan Cypress untuk aplikasi [
 ## 📁 Struktur Project
 
 cypress/
+
 ├─ e2e/
+
 │  └─ ui/
+
 │     └─ login_page.cy.js
+
 ├─ support/
+
 cypress.config.js
 
 ---
