@@ -46,8 +46,7 @@ cypress.config.js
 
 Testing dapat dipantau secara real-time melalui:
 
-🔗 Cypress Cloud Dashboard – Project 1ajvzp
-🔒 Catatan: run project bersifat private, share link run individual agar publik dapat mengakses.
+🔗 Cypress Cloud Dashboard – https://cloud.cypress.io/projects/1ajvzp/runs
 
 ---
 
@@ -57,14 +56,6 @@ Testing dapat dipantau secara real-time melalui:
 npx cypress open     # Menjalankan dengan UI (GUI)
 npx cypress run      # Menjalankan headless (CI mode)
 ```
-
----
-
-## 👩‍💻 Penulis
-
-**Qorie Insyira**
-Quality Assurance Engineer – Apergu Solutions
-📧 qorie@apergu.com
 
 ---
 
@@ -78,3 +69,14 @@ git add README.md
 git commit -m "Update README untuk dokumentasi pengujian UI"
 git push
 ```
+
+---
+
+## 👩‍💻 Penulis
+
+**Qorie Insyira**
+
+Quality Assurance Engineer – Apergu Solution
+
+📧 qorie@apergu.com
+
