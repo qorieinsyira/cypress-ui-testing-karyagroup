@@ -1,18 +1,17 @@
 {
-  "name": "cypress-api",
+  "name": "cypress-ui",
   "version": "1.0.0",
-  "description": "REST API TESTING WITH CYPRESS",
+  "description": "UI Testing with Cypress for Sales App",
   "main": "index.js",
   "scripts": {
-    "test:api": "cypress run --e2e --spec \"cypress/e2e/api/*.cy.js\"",
-    "test:customer": "cypress run --e2e --spec \"cypress/e2e/api/customer.cy.js\"",
-    "test:item": "cypress run --e2e --spec \"cypress/e2e/api/item.cy.js\"",
+    "test": "cypress run",
+    "test:record": "cypress run --record --key 306f4280-65c5-40d1-9ab5-1baded23a5a7",
     "cypress:open": "cypress open"
   },
   "keywords": [
-    "REST",
+    "UI",
     "CYPRESS",
-    "API"
+    "TESTING"
   ],
   "author": "Qorie",
   "license": "ISC",

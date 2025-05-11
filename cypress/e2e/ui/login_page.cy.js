@@ -19,7 +19,7 @@ describe("Pengujian Fungsional Login", () => {
 
   // ✅ Positive Case
   validUsers.forEach((user) => {
-    it(`login berhasil sebagai ${user.username}`, () => {
+    it(`Login berhasil sebagai ${user.username}`, () => {
       cy.get('input[placeholder="My Email"]').clear().type(user.username);
       cy.get('input[placeholder="My Password"]').clear().type(user.password);
       cy.get("button")
@@ -46,14 +46,14 @@ describe("Pengujian Fungsional Login", () => {
       .and("contain.text", "Email and Password are required!");
   };
 
-  it("menampilkan error jika email & password kosong", () => {
+  it("Menampilkan error jika email & password kosong", () => {
     cy.get("button")
       .contains(/submit/i)
       .click();
     assertErrorKosong();
   });
 
-  it("menampilkan error jika password kosong", () => {
+  it("Menampilkan error jika password kosong", () => {
     cy.get('input[placeholder="My Email"]').type("admin");
     cy.get("button")
       .contains(/submit/i)
@@ -61,7 +61,7 @@ describe("Pengujian Fungsional Login", () => {
     assertErrorKosong();
   });
 
-  it("menampilkan error jika email kosong", () => {
+  it("Menampilkan error jika email kosong", () => {
     cy.get('input[placeholder="My Password"]').type("admin@123");
     cy.get("button")
       .contains(/submit/i)
@@ -69,7 +69,7 @@ describe("Pengujian Fungsional Login", () => {
     assertErrorKosong();
   });
 
-  it("menampilkan error jika username/password salah", () => {
+  it("Menampilkan error jika username/password salah", () => {
     cy.get('input[placeholder="My Email"]').type("wronguser");
     cy.get('input[placeholder="My Password"]').type("wrongpass");
     cy.get("button")
