@@ -2,12 +2,13 @@
 
 Repositori ini berisi pengujian otomatis UI menggunakan Cypress untuk aplikasi [Sales App](https://sales-app-apergu.vercel.app/).
 
-![Cypress Dashboard](https://img.shields.io/badge/Cypress-Tested-brightgreen?logo=cypress)
+![Cypress Dashboard](https://img.shields.io/badge/Cypress-Tested-brightgreen?logo=cypress)  
 [🔗 Lihat Run di Cypress Dashboard](https://cloud.cypress.io/projects/1ajvzp/runs)
 
 ---
 
 ## 📁 Struktur Project
+
 cypress/
 ├─ e2e/
 │  └─ ui/
@@ -36,35 +37,39 @@ cypress.config.js
 
 ---
 
-## 🧪 Menjalankan Test
-
-```bash
-npx cypress open     # Menjalankan dengan UI (GUI)
-npx cypress run      # Menjalankan headless (CI mode)
-
-
-**## 📊 Laporan Testing**
+## 📊 Laporan Testing
 
 Testing dapat dipantau secara real-time melalui:
 
 🔗 Cypress Cloud Dashboard – Project 1ajvzp
 🔒 Catatan: run project bersifat private, share link run individual agar publik dapat mengakses.
 
+---
 
-**## 👩‍💻 Penulis**
-Qorie Insyira
+## 🧪 Menjalankan Test
+
+```
+npx cypress open     # Menjalankan dengan UI (GUI)
+npx cypress run      # Menjalankan headless (CI mode)
+```
+
+---
+
+## 👩‍💻 Penulis
+
+**Qorie Insyira**
 Quality Assurance Engineer – Apergu Solutions
 📧 qorie@apergu.com
 
 ---
 
-**### 📝 Langkah berikut:**
-1. Buka file `README.md` di project kamu
-2. Hapus semua isinya
-3. Paste kode di atas
-4. Simpan file, lalu jalankan:
-
-```bash
+## 📝 Langkah Berikut:
+1.	Buka file README.md di project kamu
+2.	Hapus semua isinya
+3.	Paste kode di atas
+4.	Simpan file, lalu jalankan: 
+ ```
 git add README.md
 git commit -m "Update README untuk dokumentasi pengujian UI"
 git push
+```
