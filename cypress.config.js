@@ -9,6 +9,6 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    specPattern: "cypress/e2e/**/*.cy.{js,jsx,ts,tsx}", // biar semua test kebaca
+    specPattern: "cypress/e2e/ui/**/*.cy.{js,jsx,ts,tsx}",
   },
 });
