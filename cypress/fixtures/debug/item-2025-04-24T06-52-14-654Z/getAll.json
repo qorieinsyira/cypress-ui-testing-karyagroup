@@ -1,0 +1,139 @@
+{
+  "status_code": 200,
+  "message": "Success",
+  "data": {
+    "list": [
+      {
+        "createdby": "74993fae-caf3-4078-8d6d-9f3ba4372615",
+        "createddate": "2025-04-24T09:30:44.771142+07:00",
+        "discount": 0,
+        "displayname": "Granule LLDPE Daur Ulang - 2025-04-24 #61",
+        "id": "f9fd1ac5-fde0-4ac8-b977-720a07e35820",
+        "itemid": "ITEM3787_20250424_61",
+        "itemprocessfamily": "K-Item",
+        "price": 2000,
+        "saleunit": null,
+        "stockunit": null,
+        "unitstype": "kg"
+      },
+      {
+        "createdby": "74993fae-caf3-4078-8d6d-9f3ba4372615",
+        "createddate": "2025-04-24T09:30:32.421759+07:00",
+        "discount": 0,
+        "displayname": "Bahan Plastik Kresek Warna - 2025-04-24 #44",
+        "id": "a10fd85a-5f0f-4085-9d64-4436b93b35a2",
+        "itemid": "ITEM3177_20250424_44",
+        "itemprocessfamily": "M-Item",
+        "price": 2000,
+        "saleunit": null,
+        "stockunit": null,
+        "unitstype": "kg"
+      },
+      {
+        "createdby": "74993fae-caf3-4078-8d6d-9f3ba4372615",
+        "createddate": "2025-04-24T09:27:52.621389+07:00",
+        "discount": 0,
+        "displayname": "Resin Plastik HDPE - 2025-04-24 #27",
+        "id": "4359de6a-446d-4cd8-9d52-41ea701e6cf4",
+        "itemid": "ITEM4201_20250424_27",
+        "itemprocessfamily": "K-Item",
+        "price": 2000,
+        "saleunit": null,
+        "stockunit": null,
+        "unitstype": "kg"
+      },
+      {
+        "createdby": "74993fae-caf3-4078-8d6d-9f3ba4372615",
+        "createddate": "2025-04-24T09:18:01.237655+07:00",
+        "discount": 0,
+        "displayname": "(UPDATE) Masterbatch Putih - 2025-04-24 #62",
+        "id": "78b160d7-dd76-4d18-954e-b8f4d8376279",
+        "itemid": "ITEM4060_20250424_62",
+        "itemprocessfamily": "K-Item",
+        "price": 2000,
+        "saleunit": null,
+        "stockunit": null,
+        "unitstype": "kg"
+      },
+      {
+        "createdby": "74993fae-caf3-4078-8d6d-9f3ba4372615",
+        "createddate": "2025-04-23T16:29:34.029112+07:00",
+        "discount": 0,
+        "displayname": "Bijih Plastik PPE Bening - 2025-04-23 #108",
+        "id": "3a3c7b5d-668d-472c-8377-e71aca57a357",
+        "itemid": "ITEM8853_20250423_108",
+        "itemprocessfamily": "Z-Item",
+        "price": 2000,
+        "saleunit": null,
+        "stockunit": null,
+        "unitstype": "kg"
+      },
+      {
+        "createdby": "74993fae-caf3-4078-8d6d-9f3ba4372615",
+        "createddate": "2025-04-23T15:06:05.35007+07:00",
+        "discount": 0,
+        "displayname": "Granule HDPE Putih - 2025-04-23 #55",
+        "id": "66c14670-314b-4071-97eb-88597ba2f741",
+        "itemid": "ITEM3644_20250423_55",
+        "itemprocessfamily": "K-Item",
+        "price": 2000,
+        "saleunit": null,
+        "stockunit": null,
+        "unitstype": "kg"
+      },
+      {
+        "createdby": "74993fae-caf3-4078-8d6d-9f3ba4372615",
+        "createddate": "2025-04-23T15:06:04.351421+07:00",
+        "discount": 0,
+        "displayname": "Granule HDPE Hitam - 2025-04-23 #54",
+        "id": "3ba85c10-c4e7-4c71-b3e7-b7c59adc9134",
+        "itemid": "ITEM6864_20250423_54",
+        "itemprocessfamily": "M-Item",
+        "price": 2000,
+        "saleunit": null,
+        "stockunit": null,
+        "unitstype": "kg"
+      },
+      {
+        "createdby": "74993fae-caf3-4078-8d6d-9f3ba4372615",
+        "createddate": "2025-04-23T15:06:03.429353+07:00",
+        "discount": 0,
+        "displayname": "Bijih Plastik PPE Bening - 2025-04-23 #53",
+        "id": "ea9764cf-cc87-4060-bdab-a3401cc31ff0",
+        "itemid": "ITEM4456_20250423_53",
+        "itemprocessfamily": "K-Item",
+        "price": 2000,
+        "saleunit": null,
+        "stockunit": null,
+        "unitstype": "kg"
+      },
+      {
+        "createdby": "74993fae-caf3-4078-8d6d-9f3ba4372615",
+        "createddate": "2025-04-23T14:42:40.918569+07:00",
+        "discount": 0,
+        "displayname": "(UPDATE) Granule LLDPE Daur Ulang - 2025-04-23 #45",
+        "id": "350ec0bf-2cf4-4c88-a547-865208f9dfe3",
+        "itemid": "ITEM3045_20250423_45",
+        "itemprocessfamily": "X-Item",
+        "price": 2000,
+        "saleunit": null,
+        "stockunit": null,
+        "unitstype": "kg"
+      },
+      {
+        "createdby": "74993fae-caf3-4078-8d6d-9f3ba4372615",
+        "createddate": "2025-04-23T14:42:39.99772+07:00",
+        "discount": 0,
+        "displayname": "Granule PPE Grade B - 2025-04-23 #35",
+        "id": "a51f2f32-ae40-46ef-9e34-dc7b29d6f16d",
+        "itemid": "ITEM4018_20250423_35",
+        "itemprocessfamily": "M-Item",
+        "price": 2000,
+        "saleunit": null,
+        "stockunit": null,
+        "unitstype": "kg"
+      }
+    ],
+    "total_items": 10
+  }
+}

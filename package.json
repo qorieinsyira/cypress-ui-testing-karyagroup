@@ -1,0 +1,22 @@
+{
+  "name": "cypress-api",
+  "version": "1.0.0",
+  "description": "REST API TESTING WITH CYPRESS",
+  "main": "index.js",
+  "scripts": {
+    "test:api": "cypress run --e2e --spec \"cypress/e2e/api/*.cy.js\"",
+    "test:customer": "cypress run --e2e --spec \"cypress/e2e/api/customer.cy.js\"",
+    "test:item": "cypress run --e2e --spec \"cypress/e2e/api/item.cy.js\"",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "REST",
+    "CYPRESS",
+    "API"
+  ],
+  "author": "Qorie",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.3.2"
+  }
+}

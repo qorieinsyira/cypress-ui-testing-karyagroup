@@ -1,0 +1,23 @@
+{
+  "status_code": 201,
+  "message": "Success",
+  "data": {
+    "id": "a6f17ebb-cb30-45e4-b4ff-2ae0da5824a3",
+    "internalid": "00020",
+    "companyname": "PT. Test QIF CY - 2025-04-24 #2",
+    "email": "test_qif_20250424_2@yopmail.com",
+    "phone": "08699076395",
+    "altphone": "08236651431",
+    "state": "Jawa Timur",
+    "city": "Malang",
+    "addressee": "Jl. Cendrawasih No. 10",
+    "addr1": "Jl. Kelinci",
+    "zip": "65145",
+    "terms": "Net 30",
+    "creditlimit": 10000000,
+    "resalenumber": 2000,
+    "status": "active",
+    "createdby": "74993fae-caf3-4078-8d6d-9f3ba4372615",
+    "createddate": "2025-04-24T13:49:11.961486188+07:00"
+  }
+}

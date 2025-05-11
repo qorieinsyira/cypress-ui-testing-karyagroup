@@ -1,0 +1,20 @@
+{
+  "status_code": 200,
+  "message": "Success",
+  "data": {
+    "id": "a6f17ebb-cb30-45e4-b4ff-2ae0da5824a3",
+    "companyname": "PT. UPDATED TEST",
+    "email": "",
+    "phone": "089876543210",
+    "altphone": "",
+    "state": "",
+    "city": "",
+    "addressee": "",
+    "addr1": "",
+    "zip": "",
+    "terms": "",
+    "creditlimit": 20000000,
+    "resalenumber": 0,
+    "status": ""
+  }
+}
